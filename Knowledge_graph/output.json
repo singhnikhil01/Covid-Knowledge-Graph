@@ -1,0 +1,122 @@
+[
+  null,
+  {
+    "relationships": [
+      {
+        "source": "pet contract respiratory illness",
+        "target": "common cold",
+        "label": "specifically caused by"
+      },
+      {
+        "source": "common cold",
+        "target": "human rhinovirus",
+        "label": "caused by"
+      },
+      {
+        "source": "pet contract respiratory illness",
+        "target": "transmissible animal",
+        "label": "transmissible to"
+      },
+      {
+        "source": "transmissible animal",
+        "target": "cat",
+        "label": "includes"
+      },
+      {
+        "source": "transmissible animal",
+        "target": "dog",
+        "label": "includes"
+      },
+      {
+        "source": "transmissible animal",
+        "target": "domestic pet",
+        "label": "includes"
+      },
+      {
+        "source": "respiratory intestinal infection",
+        "target": "animal",
+        "label": "caused by"
+      },
+      {
+        "source": "respiratory intestinal infection",
+        "target": "canine feline coronaviruses",
+        "label": "caused by"
+      },
+      {
+        "source": "respiratory intestinal infection",
+        "target": "strain",
+        "label": "caused by"
+      },
+      {
+        "source": "COVID-19",
+        "target": "human coronavirus",
+        "label": "caused by"
+      },
+      {
+        "source": "COVID-19",
+        "target": "direct transmission",
+        "label": "caused by"
+      },
+      {
+        "source": "direct transmission",
+        "target": "human",
+        "label": "from"
+      },
+      {
+        "source": "direct transmission",
+        "target": "pet",
+        "label": "to"
+      },
+      {
+        "source": "good hygiene practice",
+        "target": "interact animal",
+        "label": "crucial for"
+      },
+      {
+        "source": "good hygiene practice",
+        "target": "wash hand handle",
+        "label": "crucial for"
+      },
+      {
+        "source": "good hygiene practice",
+        "target": "prevent spread",
+        "label": "crucial for"
+      },
+      {
+        "source": "prevent spread",
+        "target": "potential pathogen",
+        "label": "of"
+      },
+      {
+        "source": "potential pathogen",
+        "target": "human",
+        "label": "from"
+      },
+      {
+        "source": "potential pathogen",
+        "target": "animal",
+        "label": "to"
+      },
+      {
+        "source": "pet",
+        "target": "vaccinate",
+        "label": "keep"
+      },
+      {
+        "source": "pet",
+        "target": "receive regular veterinary care",
+        "label": "keep"
+      },
+      {
+        "source": "respiratory infection",
+        "target": "prevent",
+        "label": "help"
+      },
+      {
+        "source": "respiratory infection",
+        "target": "manage",
+        "label": "help"
+      }
+    ]
+  }
+]
