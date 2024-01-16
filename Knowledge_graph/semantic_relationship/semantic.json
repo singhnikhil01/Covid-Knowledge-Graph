@@ -1,0 +1,51 @@
+{
+    "virus": [
+      "COVID-19",
+      "SARS-CoV-2",
+      "coronavirus"
+    ],
+    "pandemic": [
+      "global health crisis",
+      "worldwide outbreak",
+      "public health emergency"
+    ],
+    "spread": [
+      "transmission",
+      "contagion",
+      "propagation"
+    ],
+    "symptoms": [
+      "respiratory issues",
+      "pneumonia",
+      "acute respiratory distress syndrome"
+    ],
+    "vulnerable populations": [
+      "elderly",
+      "pre-existing health conditions"
+    ],
+    "healthcare systems": [
+      "medical infrastructure",
+      "healthcare services",
+      "hospital capacity"
+    ],
+    "response": [
+      "rapid response",
+      "international collaboration",
+      "vaccine development"
+    ],
+    "vaccines": [
+      "immunization",
+      "vaccination",
+      "inoculation"
+    ],
+    "vaccine distribution": [
+      "vaccine rollout",
+      "vaccine access",
+      "vaccine equity"
+    ],
+    "disparities": [
+      "inequalities",
+      "imbalances",
+      "gaps"
+    ]
+  }

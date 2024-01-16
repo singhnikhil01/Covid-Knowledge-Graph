@@ -1,0 +1,77 @@
+{
+    "COVID-19": [
+        "novel coronavirus disease",
+        "pandemic illness",
+        "respiratory infection"
+    ],
+    "pandemic": [
+        "global health crisis",
+        "worldwide outbreak",
+        "public health emergency"
+    ],
+    "spread": [
+        "transmission",
+        "contagion",
+        "propagation"
+    ],
+    "virus": [
+        "SARS-CoV-2",
+        "pathogen",
+        "infectious agent"
+    ],
+    "symptoms": [
+        "respiratory issues",
+        "pneumonia",
+        "acute respiratory distress syndrome"
+    ],
+    "healthcare": [
+        "medical care",
+        "healthcare system",
+        "public health"
+    ],
+    "vaccine": [
+        "immunization",
+        "vaccination",
+        "inoculation"
+    ],
+    "global": [
+        "worldwide",
+        "international",
+        "across the world"
+    ],
+    "challenge": [
+        "difficulty",
+        "obstacle",
+        "problem"
+    ],
+    "response": [
+        "reaction",
+        "action",
+        "countermeasure"
+    ],
+    "collaboration": [
+        "cooperation",
+        "partnership",
+        "joint effort"
+    ],
+    "research": [
+        "scientific investigation",
+        "study",
+        "experimentation"
+    ],
+    "development": [
+        "creation",
+        "production",
+        "innovation"
+    ],
+    "equity": [
+        "fairness",
+        "justice",
+        "equality"
+    ],
+    "access": [
+        "availability",
+        "opportunity",
+        "reach"
+    ]
+}

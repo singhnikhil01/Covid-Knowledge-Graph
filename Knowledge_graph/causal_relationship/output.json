@@ -1,0 +1,119 @@
+[
+  [
+    {
+      "source": "COVID-19 pandemic",
+      "target": "SARS-CoV-2",
+      "label": "caused by"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "global health",
+      "label": "impacted"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "economies",
+      "label": "impacted"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "daily life",
+      "label": "impacted"
+    },
+    {
+      "source": "virus",
+      "target": "Wuhan",
+      "label": "emerged in"
+    },
+    {
+      "source": "virus",
+      "target": "Hubei Province",
+      "label": "emerged in"
+    },
+    {
+      "source": "virus",
+      "target": "China",
+      "label": "emerged in"
+    },
+    {
+      "source": "virus",
+      "target": "respiratory droplets",
+      "label": "spreads via"
+    },
+    {
+      "source": "COVID-19",
+      "target": "respiratory issues",
+      "label": "manifests as"
+    },
+    {
+      "source": "COVID-19",
+      "target": "pneumonia",
+      "label": "manifests as"
+    },
+    {
+      "source": "COVID-19",
+      "target": "acute respiratory distress syndrome",
+      "label": "manifests as"
+    },
+    {
+      "source": "pandemic",
+      "target": "healthcare systems",
+      "label": "challenged"
+    },
+    {
+      "source": "pandemic",
+      "target": "rapid response",
+      "label": "necessitated"
+    },
+    {
+      "source": "pandemic",
+      "target": "international collaboration",
+      "label": "necessitated"
+    },
+    {
+      "source": "pandemic",
+      "target": "vaccine development",
+      "label": "necessitated"
+    },
+    {
+      "source": "scientists",
+      "target": "virus",
+      "label": "studied"
+    },
+    {
+      "source": "scientists",
+      "target": "diagnostic tools",
+      "label": "developed"
+    },
+    {
+      "source": "scientists",
+      "target": "vaccines",
+      "label": "produced"
+    },
+    {
+      "source": "vaccines",
+      "target": "COVID-19",
+      "label": "fight against"
+    },
+    {
+      "source": "vaccines",
+      "target": "spread",
+      "label": "control"
+    },
+    {
+      "source": "vaccines",
+      "target": "severity",
+      "label": "mitigate"
+    },
+    {
+      "source": "vaccine distribution",
+      "target": "global vaccine equity",
+      "label": "challenged by"
+    },
+    {
+      "source": "vaccine distribution",
+      "target": "disparities in access",
+      "label": "challenged by"
+    }
+  ]
+]
